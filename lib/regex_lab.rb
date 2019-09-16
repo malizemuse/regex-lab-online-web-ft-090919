@@ -17,3 +17,8 @@ end
 def valid_phone_number?(phone)
 
 end
+
+
+# TEST CODE 
+
+puts starts_with_a_vowel("aerial")
