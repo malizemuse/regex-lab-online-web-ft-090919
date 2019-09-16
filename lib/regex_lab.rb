@@ -21,4 +21,4 @@ end
 
 # TEST CODE 
 
-puts starts_with_a_vowel("aerial")
+puts starts_with_a_vowel?("aerial")
